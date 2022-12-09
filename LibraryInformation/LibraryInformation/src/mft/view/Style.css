@@ -1,0 +1,44 @@
+.body{
+    -fx-background-color: rgb(253, 223, 223);
+}
+.topbody1{
+    -fx-background-color: lightgreen;
+}
+
+
+.topbody2{
+    -fx-background-color: orange;
+}
+
+.table{
+    -fx-background-color:rgb(250,215,100);
+}
+
+.button1{
+    -fx-background-color: rgb(50,170,100);
+}
+
+.button:hover{
+    -fx-background-color: lightgray;
+}
+
+.button2{
+    -fx-background-color: rgb(200,20,200);
+}
+
+.button3{
+    -fx-background-color: darkorange;
+}
+
+.button4{
+    -fx-background-color: rgb(200,60,2);
+}
+
+.button5{
+    -fx-background-color:hotpink;
+}
+
+.body3{
+    -fx-background-color: rgb(252, 236, 189);
+}
+
